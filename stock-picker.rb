@@ -24,4 +24,4 @@ def stock_picker(array)
 
 end
 
-stock_picker([17,30,6,9,15,1,6,1,20])
+stock_picker([17,3,6,9,15,8,6,1,10])
